@@ -1,4 +1,4 @@
-# 張博程｜高中學習歷程與作品
+# 基隆私立二信高中普通科數理班 張博程｜高中學習歷程與作品
 
 ## GitHub Pages上傳
 解壓縮後上傳index.html、selection.html、evidence整個資料夾。Pages選main、/(root)。不要只上傳ZIP。
